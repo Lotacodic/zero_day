@@ -1,0 +1,1 @@
+running uname without option
